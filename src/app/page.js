@@ -42,7 +42,7 @@ const Home = () => {
                                         <a
                                             href="https://laravel.com/docs"
                                             className="underline text-gray-900 dark:text-white">
-                                            Documentation
+                                            zek biot
                                         </a>
                                     </div>
                                 </div>
